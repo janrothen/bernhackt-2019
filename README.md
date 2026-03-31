@@ -1,6 +1,7 @@
 # BärnHäckt 2019
 
-BFH Challenge: Nachhaltigkeit dank Suffizienzplattform
+BFH Challenge: Nachhaltigkeit dank Suffizienzplattform.
+
 Beschreibung [Challenge](https://www.bernhackt.ch/bfh-4/)
 
 ![Bär](https://www.bernhackt.ch/wp-content/uploads/bear_animiert_gelb-3.gif)
